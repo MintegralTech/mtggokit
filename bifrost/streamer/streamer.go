@@ -2,7 +2,7 @@ package streamer
 
 import (
 	"context"
-	"github.com/Mintegral-official/mtggokit/bifrost/container"
+	"github.com/MintegralTech/mtggokit/bifrost/container"
 	"time"
 )
 

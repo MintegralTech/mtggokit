@@ -3,7 +3,7 @@ package streamer
 import (
 	"context"
 	"fmt"
-	"github.com/Mintegral-official/mtggokit/bifrost/container"
+	"github.com/MintegralTech/mtggokit/bifrost/container"
 	"github.com/smartystreets/goconvey/convey"
 	"testing"
 	"time"
